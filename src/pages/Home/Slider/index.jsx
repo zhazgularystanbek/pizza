@@ -10,6 +10,7 @@ const Slider = () => {
       <div className="container">
         <div className="slider">
           <h1>jfs</h1>
+          <h2>mdfdskfkds</h2>
         </div>
       </div>
     </div>
