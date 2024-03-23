@@ -8,7 +8,9 @@ const Slider = () => {
   return (
     <div id="slider">
       <div className="container">
-        <div className="slider"></div>
+        <div className="slider">
+          <h1>jfs</h1>
+        </div>
       </div>
     </div>
   );
